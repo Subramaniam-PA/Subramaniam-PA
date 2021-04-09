@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subramaniam-PA
-- 👀 I’m interested in coding, playing guitar, reading books & learning new languages
+- 👀 I’m interested in coding, playing guitar, reading books & learning new spoken-languages
 - 🌱 I’m currently learning Python, C++ and Hebrew
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
